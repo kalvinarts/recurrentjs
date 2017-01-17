@@ -1,0 +1,20 @@
+{
+  "name": "recurrentjs",
+  "version": "1.0.0",
+  "description": "RecurrentJS is a Javascript library that implements:",
+  "main": "./src/recurrent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalvinarts/recurrentjs.git#nodejs"
+  },
+  "author": "https://github.com/karpathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalvinarts/recurrentjs/issues"
+  },
+  "homepage": "https://github.com/kalvinarts/recurrentjs#readme",
+  "private": true
+}
